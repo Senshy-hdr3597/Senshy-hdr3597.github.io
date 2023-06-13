@@ -1,6 +1,5 @@
 body{
     background-image: url("https://www.cronica.com.ar/__export/1661885695821/sites/cronica/img/2022/08/30/yacarx_1_crop1661885561909.jpg");
-    background-repeat: no-repeat;
     background-size: cover;
 }
 img{
@@ -23,14 +22,15 @@ h3{
 ul{
     border: 2px solid rgb(0, 0, 0);
     background-color: rgb(255, 255, 255);
-    width: 400px;
+    width: 700px;
+    height: 400px;
     border-radius: 10px;
     display: flex;
     transform: translateX(400px);
 }
 li{
-    border: 2px solid rgb(255, 255, 255);
-    background-color: rgb(0, 0, 0);
-    width: 400px;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    width: 200px;
     border-radius: 10px;
 }
